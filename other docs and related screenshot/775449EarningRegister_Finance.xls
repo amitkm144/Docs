@@ -1,0 +1,340 @@
+<Table border =1>
+<TR><TH colspan=14 align=center > <Font size = 3 background-color = #FF00FF>Employee Details</TH></TR>
+<TR><TH align=Left>Employee Code:</TH>
+<TD colspan=6 align=Center>775449</TD>
+<TH colspan=2 align=Left>PF No:</TH>
+<TD colspan=5 align=Center>PUPUN00342240000856332</TD></TR>
+<TR><TH align=Left>Name:</TH>
+<TD colspan=6 align=Center>Amit Kumar Mishra</TD>
+<TH colspan=2 align=Left>ESIC No:</TH>
+<TD colspan=5 align=Center></TD></TR>
+<TR><TH align=Left>Country:</TH>
+<TD colspan=4 align=Center>IND</TD>
+<TH align=Left> Currency:</TH>
+<TD colspan=4 align=Center>INR</TD>
+<TH align=Left> Period:</TH>
+<TD colspan=3 align=Center>2023-2024</TD></TR>
+</Table>
+<br></br><br></br><Table border =1>
+<TR><TH colspan= 14 align=center > <Font size = 3 background-color = #FF00FF>Days Worked </TH></TR>
+<TR><TH>  </TH>
+<TH> April </TH>
+<TH> May </TH>
+<TH> June </TH>
+<TH> July </TH>
+<TH> August </TH>
+<TH> September </TH>
+<TH> October </TH>
+<TH> November </TH>
+<TH> December </TH>
+<TH> January </TH>
+<TH> February </TH>
+<TH> March </TH>
+</TR>
+<TR><TD> </TD>
+<TD>30</TD>
+<TD>31</TD>
+<TD>30</TD>
+<TD>31</TD>
+<TD>31</TD>
+<TD>30</TD>
+<TD>31</TD>
+<TD>30</TD>
+<TD>31</TD>
+<TD>31</TD>
+<TD>0</TD>
+<TD>0</TD>
+</TR>
+</Table>
+<br></br><br></br><Table border =1>
+<TR><TH colspan= 14 align=center > <Font size = 3 background-color = #FF00FF>Earning Statement </TH></TR>
+<TR><TH> Description </TH>
+<TH> April </TH>
+<TH> May </TH>
+<TH> June </TH>
+<TH> July </TH>
+<TH> August </TH>
+<TH> September </TH>
+<TH> October </TH>
+<TH> November </TH>
+<TH> December </TH>
+<TH> January </TH>
+<TH> February </TH>
+<TH> March </TH>
+<TH> Grand Total </TH></TR>
+<TR><TD>** Reconciled Variable Pay</TD>
+<TD>1009</TD>
+<TD>562</TD>
+<TD>1605</TD>
+<TD>1605</TD>
+<TD>1713</TD>
+<TD>1713</TD>
+<TD>1968</TD>
+<TD>1713</TD>
+<TD>1713</TD>
+<TD>1395</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>14996</B></TD></TR>
+<TR><TD>Adv Stat Bonus (Monthly)</TD>
+<TD>4000</TD>
+<TD>4000</TD>
+<TD>4000</TD>
+<TD>4000</TD>
+<TD>4000</TD>
+<TD>4000</TD>
+<TD>4000</TD>
+<TD>4000</TD>
+<TD>4000</TD>
+<TD>4000</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>40000</B></TD></TR>
+<TR><TD>Advance Variable Pay</TD>
+<TD>2407</TD>
+<TD>2407</TD>
+<TD>2407</TD>
+<TD>3059</TD>
+<TD>2570</TD>
+<TD>2570</TD>
+<TD>2570</TD>
+<TD>2570</TD>
+<TD>2570</TD>
+<TD>2570</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>25700</B></TD></TR>
+<TR><TD>Base Salary</TD>
+<TD>14443</TD>
+<TD>14443</TD>
+<TD>14443</TD>
+<TD>18343</TD>
+<TD>15418</TD>
+<TD>15418</TD>
+<TD>15418</TD>
+<TD>15418</TD>
+<TD>15418</TD>
+<TD>15418</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>154180</B></TD></TR>
+<TR><TD>Car Lease Pay</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>0</B></TD></TR>
+<TR><TD>House Rent Allowance</TD>
+<TD>10110</TD>
+<TD>10110</TD>
+<TD>10110</TD>
+<TD>12842</TD>
+<TD>10793</TD>
+<TD>10793</TD>
+<TD>10793</TD>
+<TD>10793</TD>
+<TD>10793</TD>
+<TD>10793</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>107930</B></TD></TR>
+<TR><TD>LTA Taxable Earning</TD>
+<TD>10004</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>10000</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>20004</B></TD></TR>
+<TR><TD>Leave Encashment</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>0</B></TD></TR>
+<TR><TD>Reconciled Flexi Pay</TD>
+<TD>4154</TD>
+<TD>4154</TD>
+<TD>4154</TD>
+<TD>6806</TD>
+<TD>4817</TD>
+<TD>4817</TD>
+<TD>4817</TD>
+<TD>4817</TD>
+<TD>4817</TD>
+<TD>4817</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>48170</B></TD></TR>
+<TR><TD>Shift Allowance</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>4950</TD>
+<TD>0</TD>
+<TD>8550</TD>
+<TD>4275</TD>
+<TD>4725</TD>
+<TD>4950</TD>
+<TD>0</TD>
+<TD>4275</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>31725</B></TD></TR>
+<TR><TD>GRAND TOTAL</TD>
+<TD>46127</TD>
+<TD>35676</TD>
+<TD>41669</TD>
+<TD>46655</TD>
+<TD>47861</TD>
+<TD>43586</TD>
+<TD>44291</TD>
+<TD>54261</TD>
+<TD>39311</TD>
+<TD>43268</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>442705</B></TD></TR>
+</Table>
+<br></br><Table border =1>
+<TR><TH colspan=14 align=center > <Font size = 3 background-color = #FF00FF>Deduction Statement </TH></TR>
+<TR><TH> Description </TH>
+<TH> April </TH>
+<TH> May </TH>
+<TH> June </TH>
+<TH> July </TH>
+<TH> August </TH>
+<TH> September </TH>
+<TH> October </TH>
+<TH> November </TH>
+<TH> December </TH>
+<TH> January </TH>
+<TH> February </TH>
+<TH> March </TH>
+<TH> Grand Total </TH></TR>
+<TR><TD>AWT Monthly Recovery</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>1</TD>
+<TD>1</TD>
+<TD>1</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>3</B></TD></TR>
+<TR><TD>Provident Fund</TD>
+<TD>1733</TD>
+<TD>1733</TD>
+<TD>1733</TD>
+<TD>2201</TD>
+<TD>1850</TD>
+<TD>1850</TD>
+<TD>1850</TD>
+<TD>1850</TD>
+<TD>1850</TD>
+<TD>1850</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>18500</B></TD></TR>
+<TR><TD>GRAND TOTAL</TD>
+<TD>1733</TD>
+<TD>1733</TD>
+<TD>1733</TD>
+<TD>2201</TD>
+<TD>1850</TD>
+<TD>1850</TD>
+<TD>1850</TD>
+<TD>1851</TD>
+<TD>1851</TD>
+<TD>1851</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>18503</B></TD></TR>
+</Table>
+<br></br><Table  border =1 style= solid black>
+<TR><TH  colspan=14  align=center > <Font size = 3 background-color = #FF00FF>Net Details </TH></TR>
+<TR><TH> Emplopyee id</TH>
+<TH> April </TH>
+<TH> May </TH>
+<TH> June </TH>
+<TH> July </TH>
+<TH> August </TH>
+<TH> September </TH>
+<TH> October </TH>
+<TH> November </TH>
+<TH> December </TH>
+<TH> January </TH>
+<TH> February </TH>
+<TH> March </TH>
+<TH> Grand Total </TH></TR>
+<TR><TD>775449</TD>
+<TD>44394</TD>
+<TD>33943</TD>
+<TD>39936</TD>
+<TD>44454</TD>
+<TD>46011</TD>
+<TD>41736</TD>
+<TD>42441</TD>
+<TD>52410</TD>
+<TD>37460</TD>
+<TD>41417</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>424202</B></TD></TR>
+</Table>
+<br></br><Table border =1>
+<TR><TH colspan=14 align=center > <Font size = 3 background-color = #FF00FF>Other Income Details </TH></TR>
+<TR><TH> Description </TH>
+<TH> April </TH>
+<TH> May </TH>
+<TH> June </TH>
+<TH> July </TH>
+<TH> August </TH>
+<TH> September </TH>
+<TH> October </TH>
+<TH> November </TH>
+<TH> December </TH>
+<TH> January </TH>
+<TH> February </TH>
+<TH> March </TH>
+<TH> Grand Total </TH></TR>
+<TR><TD></TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD><B>0</B></TD></TR>
+</Table>
